@@ -50,4 +50,5 @@ To run this project locally, you will need:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/basmaashraf/snapmart.git
+   git clone https://github.com/basmaashraf/Graduation-Project.git
+   
