@@ -3,9 +3,9 @@
 
 SnapMart is a Flutter-based mobile application that allows users to capture an image of an item and search for the nearest stores that sell the same or similar items. It also provides a vendor portal for store owners to add and manage their items.
 
-[Watch the video](https://www.youtube.com/watch?v=3Rku9ylZOXE)
+<iframe width="740" height="416" src="https://www.youtube.com/embed/3Rku9ylZOXE" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-https://youtu.be/3Rku9ylZOXE
+
 ## Features
 - Capture an image of an item.
 - Search for the nearest stores based on the captured image.
