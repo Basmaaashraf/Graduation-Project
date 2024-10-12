@@ -33,7 +33,7 @@ SnapMart includes a dedicated vendor portal where store owners can:
  
 
 ## Screenshots
-![App Interfaces for user ](https://github.com/Basmaaashraf/snapmart/blob/main/Screenshot%202024-10-12%20144433.png)
+![App Interfaces for user ](https://github.com/Basmaaashraf/Graduation-Project/blob/master/Screenshot%202024-10-12%20144433.png)
 ![App Interfaces for user](https://github.com/Basmaaashraf/Graduation-Project/blob/master/Screenshot%202024-10-12%20144539.png)
 ![App Interfaces for vendor](https://github.com/Basmaaashraf/snapmart/blob/main/Screenshot%202024-10-12%20144602.png)
 ![App Interfaces for vendor](https://github.com/Basmaaashraf/snapmart/blob/main/Screenshot%202024-10-12%20144621.png)
